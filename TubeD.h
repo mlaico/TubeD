@@ -12,7 +12,7 @@
 #define START_V 4.5f
 #define NUM_EMITTERS 10
 
-#include "../Framework/ParticleEmitter.h"
+#include "ParticleEmitter.h"
 
 // Emit particles from a circular region.
 class DirectionalEmitter {
