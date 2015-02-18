@@ -4,4 +4,4 @@ Update TestEntries.cpp (in /Testbed/Frameworks) with TubeD.h accordingly, then r
 
 Should look <a href="https://vimeo.com/105616234">like this</a>.
 
-There will be more info on the <a href="https://github.com/mlaico/TubeD">Project page</a>.
+There will be more info on the <a href="http://mlaico.github.io/TubeD">Project page</a>.
