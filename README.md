@@ -1,1 +1,5 @@
-<iframe src="//player.vimeo.com/video/105616234" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/105616234">MAKING WAVES</a> from <a href="https://vimeo.com/user32088544">mlai</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+TubeD is designed for the LiquidFun "Testbed".  
+
+Update TestEntries.cpp (in /Testbed/Frameworks) with TubeD.h accordingly, then run the Testbed and choose TubeD from the dropdown menu.
+
+Should look <a href="https://vimeo.com/105616234">like this</a>.
